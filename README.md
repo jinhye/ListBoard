@@ -1,4 +1,4 @@
-# BBS <JSP with MVC Pattern>
+# BBS : JSP with MVC Pattern
 <html><body>
 <h3>com.ourBoard.frontController</h3>
 	└BFrontController.java
