@@ -7,8 +7,8 @@
 <h5> └BDeleteCommand.java </h5>
 <h5> └BListCommand.java </h5>
 <h5> └BModifyCommand.java </h5>
- └BReplyCommand.java
- └BReplyViewCommand.java
+<h5> └BReplyCommand.java </h5>
+<h5> └BReplyViewCommand.java </h5>
 </body>
 </html>
 
