@@ -1,7 +1,7 @@
 # ListBoard
 <html><body>
 <h3>Com.ourBoard.java</h3>
-<p style="margin-left:40px">└BCommand.java</p>
+	└BCommand.java
 <h4> └BContentCommand.java</h4>
  └BDeleteCommand.java
  └BListCommand.java
