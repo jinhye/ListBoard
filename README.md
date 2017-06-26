@@ -1,5 +1,11 @@
 # BBS : JSP with MVC Pattern
 
+
+
+
+
+<html><body>
+
 bootstrap/
 ├── css/
 │   ├── bootstrap.css
@@ -10,9 +16,6 @@ bootstrap/
     ├── bootstrap.js
     └── bootstrap.min.js
 
-
-
-<html><body>
 <h2>--Controller--</h2>
 <h3>com.ourBoard.frontController/</h3>
 	└BFrontController.java
