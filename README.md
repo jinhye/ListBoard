@@ -1,8 +1,9 @@
 # BBS : JSP with MVC Pattern
 <html><body>
+<h2>--Controller--</h2>
 <h3>com.ourBoard.frontController</h3>
 	└BFrontController.java
-
+<h2>--Model--</h2>
 <h3>Com.ourBoard.java</h3>
 <p>  └BCommand.java </p>
 <p>  └BContentCommand.java </p>
@@ -19,6 +20,7 @@
 <h3>com.ourBoard.dto</h3>
 <p>	└BDto.java </p>
 
+<h2>--View--</h2>
 <h3>ourBoard</h3>
 <p>	└content_view.jsp </p>
 <p>	└list.jsp </p>
