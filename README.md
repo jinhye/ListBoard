@@ -1,4 +1,5 @@
 # ourBoard
+# BBS <<JSP, MVC PATTERN>>
 <html><body>
 <h3>com.ourBoard.frontController</h3>
 	└BFrontController.java
