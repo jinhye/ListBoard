@@ -1,30 +1,4 @@
 # BBS : JSP with MVC Pattern
-
-
-
-
-
-<html><body>
-
-bootstrap/
-
-├── css/
-
-│   ├── bootstrap.css
-
-│   ├── bootstrap.css.map
-
-│   ├── bootstrap.min.css
-
-│   └── bootstrap.min.css.map
-
-└── js/
-
-    ├── bootstrap.js
-    
-    └── bootstrap.min.js
-    
-
 <h2>--Controller--</h2>
 <h3>com.ourBoard.frontController/</h3>
 	└BFrontController.java
