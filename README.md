@@ -1,5 +1,8 @@
 # ourBoard
 <html><body>
+<h3>com.ourBoard.frontController</h3>
+	└BFrontController.java
+
 <h3>Com.ourBoard.java</h3>
 <p>  └BCommand.java </p>
 <p>  └BContentCommand.java </p>
@@ -10,17 +13,14 @@
 <p>  └BReplyViewCommand.java </p>
 <p>  └BWriteCommand.java </p>
 
-com.ourBoard.dao
-	└BDao.java
+<h3>com.ourBoard.dao</h3>
+<p>	└BDao.java </p>
 
-com.ourBoard.dto
-	└BDto.java
+<h3>com.ourBoard.dto</h3>
+<p>	└BDto.java </p>
 
-com.ourBoard.frontController
-	└BFrontController.java
-
-ourBoard
-	└content_view.jsp
-	└list.jsp
-	└reply_view.jsp
-	└write_view.jsp
+<h3>ourBoard</h3>
+<p>	└content_view.jsp </p>
+<p>	└list.jsp </p>
+<p>	└reply_view.jsp </p>
+<p>	└write_view.jsp </p>
